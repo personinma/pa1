@@ -1,0 +1,45 @@
+Running Test for PA1
+Top 10 Most Popular Movies (first ten elements from popularity_list): 
+Movie: 50, Popularity Factor: 1170.4
+Movie: 100, Popularity Factor: 988.9
+Movie: 181, Popularity Factor: 964.5
+Movie: 258, Popularity Factor: 937.1
+Movie: 286, Popularity Factor: 864.4
+Movie: 1, Popularity Factor: 842.3
+Movie: 174, Popularity Factor: 829.8
+Movie: 288, Popularity Factor: 828.1
+Movie: 127, Popularity Factor: 819.8
+Movie: 294, Popularity Factor: 798.8
+10 Worse Movies (last ten elements from popularity_list): 
+Movie: 1576, Popularity Factor: 1.0
+Movie: 1626, Popularity Factor: 1.0
+Movie: 1569, Popularity Factor: 1.0
+Movie: 1659, Popularity Factor: 1.0
+Movie: 1493, Popularity Factor: 1.0
+Movie: 1568, Popularity Factor: 1.0
+Movie: 1320, Popularity Factor: 1.0
+Movie: 1601, Popularity Factor: 1.0
+Movie: 1340, Popularity Factor: 1.0
+Movie: 1678, Popularity Factor: 1.0
+10 Most Similar Users to User 1 (first ten elements from most_similar(1)): 
+User: 276, Similarity Factor: 313
+User: 303, Similarity Factor: 280
+User: 450, Similarity Factor: 265
+User: 416, Similarity Factor: 264
+User: 13, Similarity Factor: 260
+User: 682, Similarity Factor: 254
+User: 92, Similarity Factor: 254
+User: 429, Similarity Factor: 254
+User: 435, Similarity Factor: 252
+User: 222, Similarity Factor: 249
+10 Least Similar Users to User 1 (last ten elements from most_similar(1)): 
+User: 431, Similarity Factor: 2
+User: 155, Similarity Factor: 2
+User: 511, Similarity Factor: 2
+User: 631, Similarity Factor: 2
+User: 166, Similarity Factor: 2
+User: 547, Similarity Factor: 2
+User: 88, Similarity Factor: 1
+User: 685, Similarity Factor: 1
+User: 341, Similarity Factor: 1
+User: 688, Similarity Factor: 1
